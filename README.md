@@ -1,5 +1,4 @@
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+# portfolio-theme
+A complete one page theme for portfolio.
+Used Sass as a preproccesor.
+Watch the site live: <a href="https://md-saad.github.io/portfolio-theme/" target="_blank">Portfolio Theme</a>
